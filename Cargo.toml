@@ -1,0 +1,6 @@
+[package]
+name = "maexchen"
+version = "0.1.0"
+authors = ["smoench <simon.moench@sensiolabs.de>"]
+
+[dependencies]
